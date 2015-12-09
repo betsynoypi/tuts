@@ -1,7 +1,7 @@
 <hr>
 
 <footer>
-  <p>&copy; Company 2016</p>
+  <p>&copy; Company 2017</p>
 </footer>
 </div> <!-- /container -->
 <script>window.jQuery || document.write('<script src="<?php echo get_template_directory_uri();?>/assets/js/jquery-1.11.2.min.js"><\/script>')</script>
